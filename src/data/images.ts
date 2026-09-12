@@ -25,7 +25,7 @@ heroMain: 'https://images.pexels.com/photos/30469973/pexels-photo-30469973.jpeg?
   //-----------hp----------
   
   'hp250g9':"images/laptops/HP-250-G9.png",
-  'hp15fd0133wm':'https://res.cloudinary.com/ogejzzif/image/upload/v1789168916/HP-15-FD0133WM.webp',
+ /* 'hp15fd0133wm':'https://res.cloudinary.com/ogejzzif/image/upload/v1789168916/HP-15-FD0133WM.webp',
 
 
 
@@ -44,7 +44,7 @@ heroMain: 'https://images.pexels.com/photos/30469973/pexels-photo-30469973.jpeg?
 
   //-----------acer------------
 
-  'aceraspire315':'https://res.cloudinary.com/ogejzzif/image/upload/v1789168916/ACER-ASPIRE-3-15-A315-59-58SS.webp',
+  'aceraspire315':'https://res.cloudinary.com/ogejzzif/image/upload/v1789168916/ACER-ASPIRE-3-15-A315-59-58SS.webp',*/
 
 
 
