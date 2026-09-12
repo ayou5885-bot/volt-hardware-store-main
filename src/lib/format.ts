@@ -1,10 +1,10 @@
 export function formatPrice(value: number): string {
-  return new Intl.NumberFormat('en-DA', {
-    style: 'currency',
-    currency: 'DA',
-    minimumFractionDigits: 0,
-    maximumFractionDigits: 0,
-  }).format(value);
+  return (
+    new Intl.NumberFormat('en-DZ', {
+      minimumFractionDigits: 0,
+      maximumFractionDigits: 0,
+    }).format(value) + ' DA'
+  );
 }
 
 export function slugify(text: string): string {
