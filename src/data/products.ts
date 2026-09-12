@@ -61,7 +61,7 @@ export const products: Product[] = [
       `chak chak X1502V, l'ordinateur portable idéal pour les professionnels et les étudiants en Algérie. Doté d'un puissant processeur Intel Core i7 de 13ème génération, il offre une fluidité et une réactivité exceptionnelles pour toutes vos tâches quotidiennes, du multitâche intensif à la création de contenu.`,
     specifications: [
       { label: 'CPU', value: 'Intel Core i5-13420H (8 cœurs, 12 threads,4.6 GHz)' },
-      { label: 'GPU', value: '123' },
+      { label: 'GPU', value: 123 },
       { label: 'Memory', value: '8 Go DDR5' },
       { label: 'Storage', value: '1tb Go M.2 PCIe SSD' },
       { label: 'Display', value: 'Full HD (1920 x 1080) de 19.6' },
