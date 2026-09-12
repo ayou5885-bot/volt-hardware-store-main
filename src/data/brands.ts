@@ -1,8 +1,8 @@
 import type { Brand } from '@/types/product';
 
 export const brands: Brand[] = [
-  { id: 'apple', name: 'Apple' },
-  { id: 'dell', name: 'Dell' },
+//  { id: 'apple', name: 'Apple' },
+//  { id: 'dell', name: 'Dell' },
 //  { id: 'corsair', name: 'Corsair' },
 //  { id: 'lg', name: 'LG' },
 //  { id: 'nvidia', name: 'NVIDIA' },
